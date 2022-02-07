@@ -1,8 +1,45 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+	"id": 1,
+	"image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+	"tittle": 'video 1',
+	"subtittle": 'sbutitulo video 1',
+	"autor": {
+			"name": "DON NEGRO 1",
+			"autor": "El negro1"
+			 }
+    },
+	{
+	"id": 2,
+	"image": "https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/08/hug-kiss-images.jpg",
+	"tittle": 'video 2',
+	"subtittle": 'sbutitulo video 2',
+	"autor": {
+			"name": "DON NEGRO 2",
+			"autor": "el negro2"
+			 }
+    },
+	{
+	"id": 3,
+	"image": "http://www.goodmorningimagesdownload.com/wp-content/uploads/2019/12/Love-Images-1.jpg",
+	"tittle": 'video 3',
+	"subtittle": 'sbutitulo video 3',
+	"autor": {
+			"name": "DON NEGRO 3",
+			"autor": "El negro 3"
+			 }
+    },
+	{
+	"id": 4,
+	"image": "https://swall.teahub.io/photos/small/21-218810_beautiful-wallpapers-download-for-mobile-download-beautiful-images.jpg",
+	"tittle": 'video 4',
+	"subtittle": 'sbutitulo video 4',
+	"autor": {
+			"name": "DON NEGRO 4",
+			"autor": "El negro 4"
+			 }
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
